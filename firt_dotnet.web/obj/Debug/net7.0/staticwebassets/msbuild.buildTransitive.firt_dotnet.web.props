@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\firt_dotnet.web.props" />
+</Project>

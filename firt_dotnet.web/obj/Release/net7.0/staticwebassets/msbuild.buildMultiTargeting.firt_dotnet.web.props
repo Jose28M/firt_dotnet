@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\firt_dotnet.web.props" />
+</Project>

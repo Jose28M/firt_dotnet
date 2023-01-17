@@ -1,0 +1,7 @@
+C:\out\firt_dotnet.web.exe
+C:\out\appsettings.Development.json
+C:\out\appsettings.json
+C:\out\firt_dotnet.web.dll
+C:\out\firt_dotnet.web.deps.json
+C:\out\firt_dotnet.web.runtimeconfig.json
+C:\out\firt_dotnet.web.pdb
